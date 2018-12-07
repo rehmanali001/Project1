@@ -1,5 +1,5 @@
 
-#Project Proposal
+# Project Proposal
 
 ### Team Members: 
 Thai Huy (Kevin), Rehman, Jennifer Mayfield, Grecia White
